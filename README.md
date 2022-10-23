@@ -1,6 +1,3 @@
-# Chale-Hotel
- Site para um Chalé Hotel fictício, utilizando apenas as tecnologias de HTML e CSS com layout líquido.
-
 # Chalé Hotel
  
 ## 💻 Sobre o Projeto
@@ -24,7 +21,7 @@ Foram utilizadas as seguintes ferramentas para o desenvolvimento do projeto:
 Esse projeto foi elaborado para web. </br>
 Para acessar basta clicar no link abaixo:
 
-https://felipepetriw.github.io/Noticias-Cidade/
+https://felipepetriw.github.io/Chale-Hotel/
 
 ## 📝 Licença
 
